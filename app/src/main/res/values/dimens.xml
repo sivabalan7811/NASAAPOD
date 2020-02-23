@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="tall_toolbar_height">160dp</dimen>
+    <dimen name="toolbar_text_size">13sp</dimen>
+    <dimen name="text_size">16sp</dimen>
+    <dimen name="text_size_head">15sp</dimen>
+
+    <dimen name="bottom_range">5dp</dimen>
+
+    <dimen name="margin">5dp</dimen>
+    <dimen name="radius">2dp</dimen>
+
+    <dimen name="layout_margin_top">10dp</dimen>
+    <dimen name="padding">5dp</dimen>
+</resources>
